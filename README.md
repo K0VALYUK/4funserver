@@ -1,3 +1,3 @@
 # 4 Fun Server wiki
 
-Главная страница вики FiveM-сервера 4 Fun Server.
+Вики 4 Fun Server. Статическая страница для GitHub Pages.
